@@ -1,0 +1,10 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/img_battery_shape"/>
+    <item>
+        <clip
+            android:clipOrientation="vertical"
+            android:gravity="bottom"
+            android:drawable="@drawable/img_battery_full_green"/>
+    </item>
+</layer-list>

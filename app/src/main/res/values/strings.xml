@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battery Level</string>
+    <string name="is_charging">Is charging:</string>
+</resources>
